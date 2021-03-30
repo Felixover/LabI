@@ -1,0 +1,16 @@
+E:\Dev_Docs\CCHDCMD\Lab I\BT_3\BT_3\bin\Debug\BT_3.exe.config
+E:\Dev_Docs\CCHDCMD\Lab I\BT_3\BT_3\bin\Debug\BT_3.exe
+E:\Dev_Docs\CCHDCMD\Lab I\BT_3\BT_3\bin\Debug\BT_3.pdb
+E:\Dev_Docs\CCHDCMD\Lab I\BT_3\BT_3\obj\Debug\BT_3.ProjectInstaller.resources
+E:\Dev_Docs\CCHDCMD\Lab I\BT_3\BT_3\obj\Debug\BT_3.csproj.GenerateResource.cache
+E:\Dev_Docs\CCHDCMD\Lab I\BT_3\BT_3\obj\Debug\BT_3.csproj.CoreCompileInputs.cache
+E:\Dev_Docs\CCHDCMD\Lab I\BT_3\BT_3\obj\Debug\BT_3.exe
+E:\Dev_Docs\CCHDCMD\Lab I\BT_3\BT_3\obj\Debug\BT_3.pdb
+E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe.config
+E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.pdb
+E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\obj\Debug\BT_3.ProjectInstaller.resources
+E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\obj\Debug\BT_3.csproj.GenerateResource.cache
+E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\obj\Debug\BT_3.csproj.CoreCompileInputs.cache
+E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\obj\Debug\BT_3.exe
+E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\obj\Debug\BT_3.pdb

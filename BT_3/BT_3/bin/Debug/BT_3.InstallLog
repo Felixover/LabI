@@ -1,0 +1,195 @@
+﻿Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service Service3...
+Service Service3 has been successfully installed.
+Creating EventLog source Service3 in log Application...
+Committing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service LabI_BT3...
+Service LabI_BT3 has been successfully installed.
+Creating EventLog source LabI_BT3 in log Application...
+Committing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service LabI_BT3...
+Creating EventLog source LabI_BT3 in log Application...
+Rolling back assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Restoring event log to previous state for source LabI_BT3.
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service LabI_BT3...
+Creating EventLog source LabI_BT3 in log Application...
+Rolling back assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Restoring event log to previous state for source LabI_BT3.
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service LabI_BT3...
+Creating EventLog source LabI_BT3 in log Application...
+Rolling back assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Restoring event log to previous state for source LabI_BT3.
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service LabI_BT3...
+Service LabI_BT3 has been successfully installed.
+Creating EventLog source LabI_BT3 in log Application...
+Committing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service LabI_BT3...
+Service LabI_BT3 has been successfully installed.
+Creating EventLog source LabI_BT3 in log Application...
+Committing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service BT3...
+Service BT3 has been successfully installed.
+Creating EventLog source BT3 in log Application...
+Committing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service BT3...
+Creating EventLog source BT3 in log Application...
+Rolling back assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Restoring event log to previous state for source BT3.
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service BT3...
+Creating EventLog source BT3 in log Application...
+Rolling back assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Restoring event log to previous state for source BT3.
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service BT3...
+Creating EventLog source BT3 in log Application...
+Rolling back assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Restoring event log to previous state for source BT3.
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service BT3...
+Creating EventLog source BT3 in log Application...
+Rolling back assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Restoring event log to previous state for source BT3.
+Installing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
+Installing service BT3...
+Service BT3 has been successfully installed.
+Creating EventLog source BT3 in log Application...
+Committing assembly 'E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.InstallLog
+   assemblypath = E:\Dev_Docs\CCHDCMD\Lab_I\BT_3\BT_3\bin\Debug\BT_3.exe
